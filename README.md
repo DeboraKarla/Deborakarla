@@ -1,3 +1,7 @@
+
+![68747470733a2f2f692e696d6775722e636f6d2f315a76566b44632e676966](https://user-images.githubusercontent.com/132694283/236546982-16a1017c-80fe-4e03-8885-a811972a6ec5.gif)
+
+
 # [Olá :wink: ]
 
 Eu sou <strong>Débora Melo</strong>, <strong>Estou cursando programação Full Stack</strong> 👨🏻‍💻 
