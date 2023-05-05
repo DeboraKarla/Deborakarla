@@ -6,8 +6,8 @@ Eu sou <strong>Débora Melo</strong>, <strong>Estou cursando programação Full 
 - ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 - ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)</strong> 
 - ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-- 💬 Pergunte-me sobre: <strong>Seus hobbies</strong>
-- 📣 Nós podemos falar em: <strong>Portugue</strong>
+- 💬 Pergunte-me sobre: <strong> Séries, Programação e Artes Marciais. </strong>
+- 📣 Nós podemos falar em: <strong>Português</strong>
  
 ![DeboraKarla's Stats](https://github-readme-stats.vercel.app/api?username=DeboraKarla&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
 
