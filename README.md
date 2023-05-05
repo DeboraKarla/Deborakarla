@@ -8,14 +8,15 @@ Eu sou <strong>Débora Melo</strong>, <strong>Estou cursando programação Full 
 - ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 - 💬 Pergunte-me sobre: <strong>Seus hobbies</strong>
 - 📣 Nós podemos falar em: <strong>Portugue</strong>
+ 
+![DeboraKarla's Stats](https://github-readme-stats.vercel.app/api?username=DeboraKarla&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
 
 <div align="center">
 
   <a href="[#](https://mail.google.com/mail/u/0/#inbox)" alt="Gmail">
     <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL"/></a>
 
-  <a href="#" alt="Linkedin">
-    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&l…
-             
-
-  </div>
+<a href="#" alt="Linkedin">
+    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
+           
+ </div>
