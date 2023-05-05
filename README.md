@@ -20,7 +20,7 @@ Eu sou <strong>Débora Melo</strong>, <strong>Estou cursando programação Full 
   <a href="[#](https://mail.google.com/mail/u/0/#inbox)" alt="Gmail">
     <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL"/></a>
 
-<a href="#" alt="Linkedin">
+<a href="https://www.linkedin.com/feed/?trk=homepage-basic_sign-in-submit" alt="Linkedin">
     <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
            
  </div>
